@@ -265,7 +265,7 @@ var APP_DATA = {
   "name": "瓷器展覽",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": true,
+    "autorotateEnabled": false,
     "fullscreenButton": true,
     "viewControlButtons": true
   }
